@@ -1,4 +1,4 @@
-# Gym Coach ChatBot Client
+# law-bot aws ChatBot Client
 Plan:
 - [X] Dockerfile
 - [X] HTTP page
